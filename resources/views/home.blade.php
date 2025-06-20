@@ -9,7 +9,7 @@
 <body class="bg-gray-100 text-gray-800">
 
   <div class="w-[50%] mx-auto py-10">
-    <!-- Headernya -->
+    <!-- Header -->
     <div class="flex justify-between items-center mb-5">
       <h1 class="text-xl font-semibold text-blue-600">
         Hallo, {{ Auth::user()->name }} 
